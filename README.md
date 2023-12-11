@@ -12,17 +12,6 @@ Os dados foram coletados ao longo de um período extenso, iniciando em 01:00 de 
 ### Estrutura do DataFrame
 O dataframe contém informações detalhadas sobre cada medição, incluindo ID, Data, Hora, Estação, Código, Poluente, Valor, Unidade e Tipo de medição.
 
-### Valores Iniciais e Finais
-Aqui estão exemplos dos primeiros e últimos registros do dataframe:
-
-ID | Data       | Hora | Estacao               | Codigo | Poluente | Valor | Unidade | Tipo
--- | ---------- | ---- | --------------------- | ------ | -------- | ----- | ------- | ------
-0  | 2015-01-01 | 01:00| Americana - Vila Santa Maria | SP01 | MP10 | 65.0 | ug/m3 | automatica
-... (amostra)
-
-11047015 | 2021-02-01 | 01:00 | Tatuape | SP76 | SO2 | 3.0 | ug/m3 | manual
-... (amostra)
-
 ## Modelagem
 
 ### Distribuição das Medições
